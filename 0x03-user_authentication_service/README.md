@@ -1,1 +1,1 @@
-Solutions to  0x03-user_authentication_service
+# Solutions to tasks on 0x03. User authentication service
